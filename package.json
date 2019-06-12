@@ -1,8 +1,8 @@
 {
-  "name": "@winstrike/next-i18next-koa",
-  "version": "0.1.1c",
-  "repository": "git@github.com:winstrike/next-i18next.git",
-  "author": "Janealter <n.bakulin@winstrike.gg>",
+  "name": "@daimagine/next-i18next-koa",
+  "version": "0.1.3",
+  "repository": "git@github.com:daimagine/next-i18next.git",
+  "author": "adi",
   "main": "dist/commonjs/index.js",
   "jsnext:main": "dist/es/index.js",
   "module": "dist/es/index.js",
@@ -11,7 +11,7 @@
   "engines": {
     "node": ">=8"
   },
-  "description": "The easiest way to translate your NextJs apps. With Koa support only. Forked from 'next-i18next'.",
+  "description": "The easiest way to translate your NextJs apps. With Koa support only. Forked from 'winstrike/next-i18next-koa'.",
   "keywords": [
     "react",
     "i18next",
